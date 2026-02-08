@@ -60,5 +60,5 @@ La aplicación permite cargar usuarios desde una API pública y gestionar la inf
 Los cambios de usuarios se manejan en estado local, no se persisten en la API.
 
 ## Autor
-Carlos Zamora
+Carlos Zamora\
 <sub>Ingeniero Electrónico | Web Developer</sub>
