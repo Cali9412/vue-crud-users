@@ -41,13 +41,18 @@ La aplicación permite cargar usuarios desde una API pública y gestionar la inf
 
 ##  Cómo ejecutar el proyecto
 1. Clonar el repositorio:
+    ```
     git clone https://github.com/Cali9412/vue-crud-users
+    ```
 
 2. Instalar dependencias:
-    npm install
-    
+    ```
+    npm install    
+    ```
 3. Ejecutar en modo desarrollo:    
+    ```
     npm run dev
+    ```
 
 4. Copiar la URL proporcionada en el navegador para visualizar la   aplicación.
 
@@ -56,4 +61,4 @@ Los cambios de usuarios se manejan en estado local, no se persisten en la API.
 
 ## Autor
 Carlos Zamora
-Ingeniero Electrónico | Web Developer
+<sub>Ingeniero Electrónico | Web Developer</sub>
