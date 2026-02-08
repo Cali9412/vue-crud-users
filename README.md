@@ -1,11 +1,9 @@
-# Vue 3 + Vite
-
 # Vue 3 – CRUD Users
 
 CRUD de usuarios desarrollado con **Vue 3** utilizando **Composition API**.  
 La aplicación permite cargar usuarios desde una API pública y gestionar la información de manera local.
 
----
+
 
 ## Features
 
@@ -18,7 +16,7 @@ La aplicación permite cargar usuarios desde una API pública y gestionar la inf
 - Validación de email
 - Diseño responsive
 
----
+
 
 ## Tech Stack
 
@@ -29,7 +27,7 @@ La aplicación permite cargar usuarios desde una API pública y gestionar la inf
 - HTML5
 - CSS3
 
----
+
 
 ## Arquitectura y decisiones técnicas
 
@@ -39,7 +37,7 @@ La aplicación permite cargar usuarios desde una API pública y gestionar la inf
 - Manejo de estado local con `ref`
 - Separación clara de responsabilidades por componente
 
----
+
 
 ##  Cómo ejecutar el proyecto
 1. Clonar el repositorio:
